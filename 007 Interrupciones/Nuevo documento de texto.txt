@@ -1,0 +1,6 @@
+http://gammon.com.au/interrupts
+https://www.arduino.cc/reference/en/language/variables/variable-scope--qualifiers/volatile/
+file:///C:/Users/Jeziel/Google%20Drive/Empresa/00%20Cursos%20de%20Microcontroladores/Curso%20Arduino/007%20Interrupciones/Qu%C3%A9%20son%20y%20c%C3%B3mo%20usar%20interrupciones%20en%20Arduino.html
+https://www.luisllamas.es/interrupciones-en-todos-los-pines-de-arduino-con-pcint/
+https://aprendiendoarduino.wordpress.com/2016/11/13/interrupciones/
+https://www.youtube.com/watch?v=J61_PKyWjxU

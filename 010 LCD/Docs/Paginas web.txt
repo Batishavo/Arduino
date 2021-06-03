@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=_2qdDuwNzvk
+https://www.youtube.com/watch?v=g-3Vt7SyL9w
+https://www.youtube.com/watch?v=ijlTWj5O9yk
+http://galia.fc.uaslp.mx/~cantocar/microcontroladores/SLIDES_8051_PDF/19__LCD_4.PDF
+https://www.ele.uva.es/~jesus/hardware_empotrado/LCD_alfa.pdf
+http://www.robozes.com/robot_pi/componentes/DISPLAY.PDF
+https://elcodigoascii.com.ar/
+https://embedjournal.com/interfacing-lcd-module-basics/
+https://www.luisllamas.es/arduino-lcd-hitachi-hd44780/
+https://www.naylampmechatronics.com/blog/34_Tutorial-LCD-conectando-tu-arduino-a-un-LCD1.html
+https://www.geekfactory.mx/tutoriales/tutoriales-arduino/pantalla-lcd-16x2-con-arduino/
+https://programarfacil.com/tutoriales/fragmentos/arduino/texto-en-movimiento-en-un-lcd-con-arduino/
